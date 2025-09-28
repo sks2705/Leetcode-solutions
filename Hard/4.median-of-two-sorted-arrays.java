@@ -3,7 +3,6 @@
 
 The overall run time complexity should be O(log (m+n)).
 
- 
 
 Example 1:
 
