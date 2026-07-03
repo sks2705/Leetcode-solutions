@@ -52,6 +52,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sks2705/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Binary Search
@@ -62,4 +63,12 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
