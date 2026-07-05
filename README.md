@@ -32,6 +32,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sks2705/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -106,4 +108,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 <!---LeetCode Topics End-->
