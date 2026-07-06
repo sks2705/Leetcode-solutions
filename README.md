@@ -32,6 +32,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sks2705/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/sks2705/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Two Pointers
@@ -47,6 +48,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0015-3sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/sks2705/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/sks2705/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
