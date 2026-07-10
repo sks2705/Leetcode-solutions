@@ -118,6 +118,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0110-balanced-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0110-balanced-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +159,13 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0110-balanced-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
