@@ -96,6 +96,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -120,16 +121,19 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0543-diameter-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
