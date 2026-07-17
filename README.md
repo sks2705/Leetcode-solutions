@@ -36,6 +36,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sks2705/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -76,6 +77,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -83,12 +85,14 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -154,6 +158,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sks2705/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sks2705/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -194,6 +199,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sks2705/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sks2705/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sks2705/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -209,4 +215,12 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sks2705/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
