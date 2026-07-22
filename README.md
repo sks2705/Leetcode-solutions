@@ -40,6 +40,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sks2705/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -82,6 +83,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -107,6 +109,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -242,4 +245,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 <!---LeetCode Topics End-->
