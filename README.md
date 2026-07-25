@@ -164,6 +164,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -215,6 +216,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -225,6 +227,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -279,6 +282,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
