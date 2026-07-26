@@ -19,13 +19,12 @@ class Solution {
         height(root,diameter);
         return diameter[0];
     }
-
-    public static int height(TreeNode root,int[] diameter){
-        if(root==null) return 0;
-        int lh=height(root.left,diameter);
-        int rh =height(root.right,diameter);
+    private int height(TreeNode t1, int[] diameter){
+        if(t1==null) return 0 ;
+        int lh=height(t1.left,diameter);
+        int rh=height(t1.right,diameter);
+        int max = Math.max(lh,rh);
         diameter[0]=Math.max(rh+lh,diameter[0]);
         return Math.max(rh,lh)+1;
-
     }
 }
