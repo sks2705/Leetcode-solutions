@@ -181,6 +181,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -246,6 +247,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +268,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,4 +335,5 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
