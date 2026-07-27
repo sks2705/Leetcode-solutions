@@ -151,6 +151,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -190,6 +191,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0543-diameter-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -205,6 +207,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
