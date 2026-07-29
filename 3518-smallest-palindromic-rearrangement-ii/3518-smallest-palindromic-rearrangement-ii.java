@@ -1,5 +1,5 @@
 class Solution {
-    private static final long LIMIT = 1_000_001L; // k <= 10^6 constraint
+    private static final long LIMIT = 1_000_001L;
 
     public String smallestPalindrome(String s, int k) {
         int[] freq = new int[26];
@@ -20,8 +20,6 @@ class Solution {
         }
 
         long targetK = k;
-
-        // Check if there are at least k total palindromic permutations
         if (countWays(half, len) < targetK) {
             return "";
         }
@@ -31,18 +29,16 @@ class Solution {
         for (int pos = 0; pos < len; pos++) {
             for (int c = 0; c < 26; c++) {
                 if (half[c] == 0) continue;
-
-                // Temporarily place character 'a' + c
                 half[c]--;
                 long ways = countWays(half, len - pos - 1);
 
                 if (ways >= targetK) {
                     left.append((char) ('a' + c));
-                    break; // Successfully locked in this character
+                    break; 
                 }
 
                 targetK -= ways;
-                half[c]++; // Backtrack and try next character
+                half[c]++;
             }
         }
 
@@ -54,8 +50,6 @@ class Solution {
 
         return ans.toString();
     }
-
-    // Calculates multinomial coefficient with a cap at LIMIT
     private long countWays(int[] cnt, int totalLen) {
         long res = 1;
         int rem = totalLen;
