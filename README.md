@@ -127,6 +127,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sks2705/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -137,6 +138,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/sks2705/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -338,6 +340,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Stack
