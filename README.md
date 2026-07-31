@@ -373,6 +373,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0094-binary-tree-inorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/sks2705/Leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -402,6 +403,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sks2705/Leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
@@ -417,4 +419,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sks2705/Leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
