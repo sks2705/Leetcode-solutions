@@ -176,6 +176,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/sks2705/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -185,6 +186,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/sks2705/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0144-binary-tree-preorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/sks2705/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -235,6 +238,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/sks2705/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
