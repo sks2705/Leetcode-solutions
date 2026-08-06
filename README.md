@@ -113,6 +113,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sks2705/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sks2705/Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -139,6 +140,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/sks2705/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sks2705/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sks2705/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -155,6 +157,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/sks2705/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sks2705/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0649-dota2-senate](https://github.com/sks2705/Leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
