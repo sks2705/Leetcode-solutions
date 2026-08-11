@@ -48,6 +48,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0973-k-closest-points-to-origin](https://github.com/sks2705/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/sks2705/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sks2705/Leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sks2705/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sks2705/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -265,6 +266,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sks2705/Leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/sks2705/Leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -282,6 +284,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sks2705/Leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sks2705/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Math
