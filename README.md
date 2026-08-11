@@ -153,6 +153,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0217-contains-duplicate](https://github.com/sks2705/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -168,6 +169,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0049-group-anagrams](https://github.com/sks2705/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sks2705/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0649-dota2-senate](https://github.com/sks2705/Leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -414,6 +416,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -474,6 +477,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sks2705/Leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sks2705/Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/sks2705/Leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
