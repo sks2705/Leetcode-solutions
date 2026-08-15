@@ -553,4 +553,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sks2705/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/sks2705/Leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 <!---LeetCode Topics End-->
