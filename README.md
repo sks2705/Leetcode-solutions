@@ -556,5 +556,6 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0577-employee-bonus](https://github.com/sks2705/Leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/sks2705/Leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 <!---LeetCode Topics End-->
