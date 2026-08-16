@@ -57,6 +57,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sks2705/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sks2705/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -115,6 +116,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0011-container-with-most-water](https://github.com/sks2705/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0649-dota2-senate](https://github.com/sks2705/Leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sks2705/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -330,6 +332,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0973-k-closest-points-to-origin](https://github.com/sks2705/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sks2705/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -446,6 +449,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sks2705/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -524,6 +528,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0877-stone-game](https://github.com/sks2705/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,15 +538,18 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
