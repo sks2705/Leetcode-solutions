@@ -197,6 +197,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sks2705/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks2705/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/sks2705/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -321,6 +322,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sks2705/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -558,4 +560,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/sks2705/Leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/sks2705/Leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sks2705/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
