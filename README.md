@@ -58,6 +58,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1288-remove-covered-intervals](https://github.com/sks2705/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/sks2705/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -222,6 +223,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0877-stone-game](https://github.com/sks2705/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/sks2705/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sks2705/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -354,6 +356,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0877-stone-game](https://github.com/sks2705/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sks2705/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1406-stone-game-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/sks2705/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -551,6 +554,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sks2705/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1406-stone-game-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/sks2705/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -562,12 +566,14 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1406-stone-game-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1406-stone-game-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
