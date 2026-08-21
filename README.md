@@ -50,6 +50,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0930-binary-subarrays-with-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sks2705/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/sks2705/Leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/sks2705/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks2705/Leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -332,6 +333,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0785-is-graph-bipartite](https://github.com/sks2705/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks2705/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/sks2705/Leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks2705/Leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -353,6 +355,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/sks2705/Leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks2705/Leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sks2705/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sks2705/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
