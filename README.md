@@ -70,6 +70,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1872-stone-game-viii](https://github.com/sks2705/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sks2705/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sks2705/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sks2705/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sks2705/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -138,6 +139,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1386-cinema-seat-allocation](https://github.com/sks2705/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/sks2705/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sks2705/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sks2705/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
