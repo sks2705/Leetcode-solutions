@@ -99,6 +99,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0011-container-with-most-water](https://github.com/sks2705/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/sks2705/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -226,6 +227,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sks2705/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/sks2705/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sks2705/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/sks2705/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
@@ -480,6 +482,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -682,4 +685,16 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sks2705/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
