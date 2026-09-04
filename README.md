@@ -343,6 +343,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0785-is-graph-bipartite](https://github.com/sks2705/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks2705/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/sks2705/Leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -462,6 +463,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0700-search-in-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/sks2705/Leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -484,6 +486,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0700-search-in-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/sks2705/Leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
