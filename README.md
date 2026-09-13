@@ -49,6 +49,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0643-maximum-average-subarray-i](https://github.com/sks2705/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sks2705/Leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/sks2705/Leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/sks2705/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sks2705/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -195,6 +196,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0209-minimum-size-subarray-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sks2705/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sks2705/Leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/sks2705/Leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
