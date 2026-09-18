@@ -375,6 +375,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/sks2705/Leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sks2705/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -402,6 +403,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0841-keys-and-rooms](https://github.com/sks2705/Leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/sks2705/Leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks2705/Leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -505,6 +507,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0703-kth-largest-element-in-a-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/sks2705/Leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sks2705/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -531,6 +534,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0703-kth-largest-element-in-a-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/sks2705/Leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sks2705/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
