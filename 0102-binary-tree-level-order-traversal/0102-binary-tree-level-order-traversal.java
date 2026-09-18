@@ -15,13 +15,13 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> result= new ArrayList<>();
-        Queue<TreeNode> q= new LinkedList<>();
+        List<List<Integer>> result = new ArrayList<>();
+        Queue<TreeNode>q = new LinkedList<>();
         if(root==null) return result;
         q.offer(root);
         while(!q.isEmpty()){
-            int levelSize= q.size();
             List<Integer>currentList=new ArrayList<>();
+            int levelSize=q.size();
             for(int i =0;i<levelSize;i++){
                 TreeNode current = q.poll();
                 currentList.add(current.val);
