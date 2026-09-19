@@ -448,6 +448,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0973-k-closest-points-to-origin](https://github.com/sks2705/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sks2705/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sks2705/Leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/sks2705/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sks2705/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/sks2705/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -638,6 +639,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sks2705/Leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sks2705/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sks2705/Leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
