@@ -31,6 +31,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0015-3sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/sks2705/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/sks2705/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/sks2705/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -444,6 +445,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/sks2705/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/sks2705/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
