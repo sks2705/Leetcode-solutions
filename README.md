@@ -34,6 +34,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0066-plus-one](https://github.com/sks2705/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/sks2705/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0130-surrounded-regions](https://github.com/sks2705/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/sks2705/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -364,6 +365,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/sks2705/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sks2705/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -399,6 +401,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/sks2705/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0130-surrounded-regions](https://github.com/sks2705/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sks2705/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sks2705/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
@@ -422,6 +425,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/sks2705/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sks2705/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -433,6 +437,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/sks2705/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/sks2705/Leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
