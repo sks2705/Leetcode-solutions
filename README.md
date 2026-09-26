@@ -37,6 +37,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0075-sort-colors](https://github.com/sks2705/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0130-surrounded-regions](https://github.com/sks2705/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/sks2705/Leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/sks2705/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sks2705/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -307,6 +308,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sks2705/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/sks2705/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/sks2705/Leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sks2705/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
