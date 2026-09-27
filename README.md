@@ -254,6 +254,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0127-word-ladder](https://github.com/sks2705/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/sks2705/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/sks2705/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sks2705/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -293,6 +294,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0049-group-anagrams](https://github.com/sks2705/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sks2705/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/sks2705/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0205-isomorphic-strings](https://github.com/sks2705/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
