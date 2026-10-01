@@ -511,6 +511,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/sks2705/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/sks2705/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -746,6 +747,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sks2705/Leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -769,6 +771,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
