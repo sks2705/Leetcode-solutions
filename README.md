@@ -132,6 +132,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/sks2705/Leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/sks2705/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/sks2705/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -768,6 +769,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sks2705/Leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0061-rotate-list](https://github.com/sks2705/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sks2705/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sks2705/Leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
