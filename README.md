@@ -259,6 +259,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0076-minimum-window-substring](https://github.com/sks2705/Leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/sks2705/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/sks2705/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/sks2705/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sks2705/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sks2705/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -746,6 +747,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sks2705/Leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/sks2705/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sks2705/Leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
