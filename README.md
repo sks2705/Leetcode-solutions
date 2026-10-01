@@ -742,6 +742,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sks2705/Leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Merge Sort
@@ -762,6 +763,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
