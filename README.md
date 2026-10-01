@@ -134,6 +134,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0031-next-permutation](https://github.com/sks2705/Leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/sks2705/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/sks2705/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/sks2705/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/sks2705/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -260,6 +261,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0127-word-ladder](https://github.com/sks2705/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/sks2705/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sks2705/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sks2705/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sks2705/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sks2705/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -752,6 +754,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0021-merge-two-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/sks2705/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sks2705/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sks2705/Leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
