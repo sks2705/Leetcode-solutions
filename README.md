@@ -183,6 +183,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sks2705/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0649-dota2-senate](https://github.com/sks2705/Leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sks2705/Leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sks2705/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -319,6 +320,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sks2705/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0649-dota2-senate](https://github.com/sks2705/Leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -358,6 +360,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0213-house-robber-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sks2705/Leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks2705/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/sks2705/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -719,6 +722,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0144-binary-tree-preorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sks2705/Leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/sks2705/Leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/sks2705/Leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sks2705/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -917,6 +921,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0020-valid-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sks2705/Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
