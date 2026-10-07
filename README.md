@@ -319,6 +319,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0205-isomorphic-strings](https://github.com/sks2705/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sks2705/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/sks2705/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -487,6 +488,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0210-course-schedule-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sks2705/Leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/sks2705/Leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sks2705/Leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -832,6 +834,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/sks2705/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
