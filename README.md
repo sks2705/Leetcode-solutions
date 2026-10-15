@@ -99,6 +99,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [2333-minimum-sum-of-squared-difference](https://github.com/sks2705/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sks2705/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sks2705/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sks2705/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sks2705/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sks2705/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -305,6 +306,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sks2705/Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sks2705/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sks2705/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sks2705/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -769,6 +771,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sks2705/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sks2705/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/sks2705/Leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Binary Search Tree
@@ -967,4 +970,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sks2705/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sks2705/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
