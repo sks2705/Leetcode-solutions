@@ -1,14 +1,14 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        HashMap<Integer,Integer>hm=new HashMap<>();
-        ArrayList<Integer> list = new ArrayList<>();
-        for(int num:nums){
-            hm.put(num,hm.getOrDefault(num,0)+1);
-        }
         int n=nums.length;
-        for(int num:hm.keySet()){
-            if(hm.get(num)>n/3){
-                list.add(num);
+        ArrayList<Integer>list=new  ArrayList<>();
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        for(int i: nums){
+            hm.put(i,hm.getOrDefault(i,0)+1);
+        }
+        for(int i: hm.keySet()){
+            if(hm.get(i)>(n/3)){
+                list.add(i);
             }
         }
         return list;
