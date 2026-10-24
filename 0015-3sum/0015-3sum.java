@@ -1,29 +1,31 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result= new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
-        for(int i =0;i<nums.length-2;i++){
-            if(nums[i]>0){
+        for (int i = 0; i < nums.length - 2; i++) {
+            if (nums[i] > 0) {
                 break;
             }
-            if(i>0 && nums[i]==nums[i-1]){
+            if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            int left=i+1;
-            int right=nums.length-1;
-            while(left<right){
-                int sum=nums[i]+nums[right]+nums[left];
-                if(sum<0) left++;
-                else if (sum>0) right--;
-                else{
-                    result.add(Arrays.asList(nums[i],nums[right],nums[left]));
+            int left = i + 1;
+            int right = nums.length - 1;
+            while (left < right) {
+                int sum = nums[i] + nums[right] + nums[left];
+                if (sum < 0)
+                    left++;
+                else if (sum > 0)
+                    right--;
+                else {
+                    result.add(Arrays.asList(nums[i], nums[right], nums[left]));
                     left++;
                     right--;
 
-                    while(left<right && nums[left]==nums[left-1]) {
+                    while (left < right && nums[left] == nums[left - 1]) {
                         left++;
                     }
-                    while(left<right && nums[right]==nums[right+1]){
+                    while (left < right && nums[right] == nums[right + 1]) {
                         right--;
                     }
                 }
@@ -31,8 +33,6 @@ class Solution {
         }
         return result;
 
-            
+    }
 
-        }
-        
 }
