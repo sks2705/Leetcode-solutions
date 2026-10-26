@@ -124,6 +124,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sks2705/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks2705/Leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sks2705/Leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sks2705/Leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sks2705/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sks2705/Leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sks2705/Leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -512,6 +513,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sks2705/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/sks2705/Leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sks2705/Leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -546,6 +548,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/sks2705/Leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sks2705/Leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sks2705/Leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +564,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [2685-count-the-number-of-complete-components](https://github.com/sks2705/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sks2705/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sks2705/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sks2705/Leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,6 +581,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sks2705/Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sks2705/Leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sks2705/Leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
