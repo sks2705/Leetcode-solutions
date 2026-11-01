@@ -55,6 +55,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0283-move-zeroes](https://github.com/sks2705/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sks2705/Leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sks2705/Leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sks2705/Leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/sks2705/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sks2705/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -602,6 +603,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [0066-plus-one](https://github.com/sks2705/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/sks2705/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/sks2705/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sks2705/Leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/sks2705/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/sks2705/Leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
