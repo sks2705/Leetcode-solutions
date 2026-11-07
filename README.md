@@ -96,6 +96,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sks2705/Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sks2705/Leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/sks2705/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/sks2705/Leetcode-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/sks2705/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sks2705/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -487,6 +488,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | [1046-last-stone-weight](https://github.com/sks2705/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sks2705/Leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/sks2705/Leetcode-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sks2705/Leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sks2705/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sks2705/Leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
